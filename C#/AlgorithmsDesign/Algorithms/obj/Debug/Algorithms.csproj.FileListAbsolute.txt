@@ -1,0 +1,6 @@
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\bin\Debug\Algorithms.dll
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\bin\Debug\Algorithms.pdb
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\obj\Debug\Algorithms.dll
+F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\Algorithms\obj\Debug\Algorithms.pdb
