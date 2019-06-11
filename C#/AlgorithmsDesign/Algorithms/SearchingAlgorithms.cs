@@ -31,7 +31,9 @@ namespace Algorithms
             }
 
             // Check the state when (lowPtr == highPtr)
-            if (container.ElementAt<T>(lowPtr).CompareTo(value) == 0)
+            if (lowPtr == highPtr
+                && lowPtr < container.Count
+                && container.ElementAt<T>(lowPtr).CompareTo(value) == 0)
                 return true;
 
             return false;
