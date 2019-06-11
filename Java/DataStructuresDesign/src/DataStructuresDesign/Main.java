@@ -6,6 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
+        System.out.println("-------------------------------------");
+
+        System.out.println("Stack Implementation");
 
         Stack<Integer> st = new Stack<>();
         st.push(1);
@@ -16,11 +19,30 @@ public class Main {
 
         st.pop();
 
-        int size = st.getSize();
+        int stSize = st.getSize();
 
-        for(int i = 0; i < size; i++){
+        for(int i = 0; i < stSize; i++){
             System.out.println(st.peek());
             st.pop();
+        }
+
+        System.out.println("-------------------------------------");
+        System.out.println("Queue Implementation");
+
+        Queue<Integer> q = new Queue<>();
+        q.push(1);
+        q.push(2);
+        q.push(3);
+        q.push(4);
+        q.push(5);
+
+        q.pop();
+
+        int qSize = q.getSize();
+
+        for(int i = 0; i < qSize; i++){
+            System.out.println(q.peek());
+            q.pop();
         }
 
     }
