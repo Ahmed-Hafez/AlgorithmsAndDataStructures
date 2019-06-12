@@ -5,7 +5,7 @@ namespace Algorithms
     public class MathAlgorithms
     {
         /// <summary>
-        /// Implementaion of grade school algorithm
+        /// Implementation of grade school algorithm
         /// </summary>
         /// <param name="firstNum">First number</param>
         /// <param name="secondNum">Second number</param>
@@ -24,7 +24,7 @@ namespace Algorithms
         }
 
         /// <summary>
-        /// Implementaion of Karatsuba multiplication algorithm
+        /// Implementation of Karatsuba multiplication algorithm
         /// </summary>
         /// <param name="firstNum">First number</param>
         /// <param name="secondNum">Second number</param>
@@ -32,7 +32,8 @@ namespace Algorithms
         {
             // Find the min size of two integers
             int n = Math.Min(firstNum.ToString().Length, secondNum.ToString().Length);
-
+            
+            // Base case
             if (n == 1)
                 return firstNum * secondNum;
 
