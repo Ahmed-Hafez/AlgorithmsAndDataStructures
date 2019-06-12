@@ -15,13 +15,18 @@ namespace Algorithms
         public static bool BinarySearch<T>(IList<T> container, T value) 
             where T : IComparable
         {
+            T[] mContainer = new T[container.Count];
+            container.CopyTo(mContainer, 0);
+
+            SortingAlgorithms.selectionSort<T>(mContainer);
+
             int lowPtr = 0;
-            int highPtr = container.Count;
+            int highPtr = mContainer.Length;
 
             while (lowPtr < highPtr)
             {
                 int midPtr = (lowPtr + highPtr) / 2;
-                int comparingValue = container.ElementAt<T>(midPtr).CompareTo(value);
+                int comparingValue = mContainer.ElementAt<T>(midPtr).CompareTo(value);
 
                 if (comparingValue > 0)
                     highPtr = midPtr - 1;
@@ -32,8 +37,8 @@ namespace Algorithms
 
             // Check the state when (lowPtr == highPtr)
             if (lowPtr == highPtr
-                && lowPtr < container.Count
-                && container.ElementAt<T>(lowPtr).CompareTo(value) == 0)
+                && lowPtr < mContainer.Length
+                && mContainer.ElementAt<T>(lowPtr).CompareTo(value) == 0)
                 return true;
 
             return false;

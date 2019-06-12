@@ -8,3 +8,13 @@ F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\AlgorithmsDesign\
 F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\Algorithms.dll
 F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\Algorithms.pdb
 F:\GitHubProjects\AlgorithmsAndDataStructures\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.csproj.CopyComplete
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\AlgorithmsDesign.exe.config
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\AlgorithmsDesign.exe
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\AlgorithmsDesign.pdb
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\Algorithms.dll
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\bin\Debug\Algorithms.pdb
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.csprojAssemblyReference.cache
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.csproj.CoreCompileInputs.cache
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.csproj.CopyComplete
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.exe
+F:\GitHubProjects\AlgorithmsAndDataStructures\C#\AlgorithmsDesign\AlgorithmsDesign\obj\Debug\AlgorithmsDesign.pdb
