@@ -2,44 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd118db4-605b-4ba8-ad0b-53515ee04026" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/MathAlgorithms.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/SortingAlgorithms.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructures/DataStructures.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructures/Queue.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructures/Stack.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructuresDesign.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructuresDesign/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructuresDesign/DataStructuresDesign.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructuresDesign/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C#/DataStructuresDesign/DataStructuresDesign/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/.vs/AlgorithmsDesign/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/Algorithms.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/Algorithms.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/SearchingAlgorithms.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/SearchingAlgorithms.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/bin/Debug/Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/bin/Debug/Algorithms.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/bin/Debug/Algorithms.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/bin/Debug/Algorithms.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/Algorithms.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/Algorithms.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/Algorithms.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/Algorithms.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/AlgorithmsDesign.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/AlgorithmsDesign.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/AlgorithmsDesign.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/bin/Debug/AlgorithmsDesign.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/AlgorithmsDesign/obj/Debug/AlgorithmsDesign.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/venv/SortingAlgorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/venv/SortingAlgorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +29,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
@@ -74,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="37">
               <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
@@ -205,15 +169,16 @@
       <option name="presentableId" value="Default" />
       <updated>1560257051831</updated>
       <workItem from="1560257057070" duration="6528000" />
-      <workItem from="1560380676180" duration="1555000" />
+      <workItem from="1560380676180" duration="2256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8083000" />
+    <option name="totallyTimeSpent" value="8784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -258,13 +223,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AlgorithmsDesign/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -279,6 +237,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
