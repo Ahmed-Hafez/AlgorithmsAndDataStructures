@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd118db4-605b-4ba8-ad0b-53515ee04026" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithms/.SearchingAlgorithms.cs.swp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/venv/MathAlgorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/DataStructuresDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/DataStructuresDesign/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="532">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -169,12 +171,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560257051831</updated>
       <workItem from="1560257057070" duration="6528000" />
-      <workItem from="1560380676180" duration="2256000" />
+      <workItem from="1560380676180" duration="3074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8784000" />
+    <option name="totallyTimeSpent" value="9602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -242,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="532">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
         </state>
       </provider>
     </entry>
