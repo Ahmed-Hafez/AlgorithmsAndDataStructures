@@ -1,11 +1,8 @@
 package Algorithms;
 
 public class MathAlgorithms {
-    /// <summary>
-    /// Implementation of grade school algorithm
-    /// </summary>
-    /// <param name="firstNum">First number</param>
-    /// <param name="secondNum">Second number</param>
+    
+    // Implementation of grade school algorithm
     public static long GradeSchoolMultiplication(long firstNum, long secondNum)
     {
         String S_SecondNum = Long.valueOf(secondNum).toString();
@@ -20,11 +17,7 @@ public class MathAlgorithms {
         return sum;
     }
 
-    /// <summary>
-    /// Implementation of Karatsuba multiplication algorithm
-    /// </summary>
-    /// <param name="firstNum">First number</param>
-    /// <param name="secondNum">Second number</param>
+    // Implementation of Karatsuba multiplication algorithm
     public static long KaratsubaMultiplication(long firstNum, long secondNum)
     {
         // Find the min size of two integers
