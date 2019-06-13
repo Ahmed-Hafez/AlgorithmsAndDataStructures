@@ -43,26 +43,27 @@ namespace AlgorithmsDesign
                 MathAlgorithms.GradeSchoolMultiplication(999999999, 999999999),
                 MathAlgorithms.KaratsubaMultiplication(999999999, 999999999),
                 999999999L * 999999999L);
-
-            //Console.WriteLine(Math.Pow(10, 2).ToString());
-
-            int[] arr = { 1, 2, 3, 4, 5, 8, 11, 20, 4,465,4645,645,675,765,7,567,65 };
+           
+            int[] arr = { 2, 1, 6, 3, 5, 8, 11, 20, 4,465,4645,645,675,765,7,567,65 };
             Console.WriteLine(SearchingAlgorithms.BinarySearch<int>(arr, 20));
 
             List<string> list = new List<string>() { "Ahmed", "ahmed", "sara", "amgad" };
             Console.WriteLine(SearchingAlgorithms.BinarySearch<string>(list, "ahmed"));
 
-            SortingAlgorithms.selectionSort<int>(arr);
+            SortingAlgorithms.SelectionSort<int>(arr);
             foreach (var item in arr)
             {
                 Console.Write(item + " ");
             }
             Console.WriteLine();
-            SortingAlgorithms.selectionSort<string>(list);
+            SortingAlgorithms.SelectionSort<string>(list);
             foreach (var item in list)
             {
                 Console.Write(item + " ");
             }
+
+            arr = new int[]{ 2, 1, 6, 3, 5, 8, 11, 20, 4,465,4645,645,675,765,7,567,65 };
+            SortingAlgorithms.MergeSort<int>(arr, 0, arr.Length - 1);
         }
     }
 }

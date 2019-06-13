@@ -18,7 +18,7 @@ namespace Algorithms
             T[] mContainer = new T[container.Count];
             container.CopyTo(mContainer, 0);
 
-            SortingAlgorithms.selectionSort<T>(mContainer);
+            SortingAlgorithms.SelectionSort<T>(mContainer);
 
             int lowPtr = 0;
             int highPtr = mContainer.Length;
@@ -37,13 +37,8 @@ namespace Algorithms
 
             // Check the state when (lowPtr == highPtr)
             if (lowPtr == highPtr
-<<<<<<< HEAD
-                && lowPtr < container.Count
-                && container.ElementAt<T>(lowPtr).CompareTo(value) == 0)
-=======
                 && lowPtr < mContainer.Length
                 && mContainer.ElementAt<T>(lowPtr).CompareTo(value) == 0)
->>>>>>> 0fc072cbee7c30272ba0cd04c4ef7eefebff589f
                 return true;
 
             return false;
