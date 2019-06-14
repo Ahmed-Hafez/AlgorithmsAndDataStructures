@@ -10,7 +10,7 @@ namespace Algorithms
         #region Public methods
 
         /// <summary>
-        /// Implemetation of selection sort algorithm
+        /// Implementation of selection sort algorithm
         /// </summary>
         /// <typeparam name="T">The type of the objects in the <see cref="IList{T}"/></typeparam>
         /// <param name="container">The container to search in</param>
@@ -34,7 +34,7 @@ namespace Algorithms
         }
 
         /// <summary>
-        /// Implemetation of selection sort algorithm
+        /// Implementation of selection sort algorithm
         /// </summary>
         /// <typeparam name="T">The type of the objects in the <see cref="IList{T}"/></typeparam>
         /// <param name="container">The container to search in</param>
@@ -70,7 +70,7 @@ namespace Algorithms
         }
 
         /// <summary>
-        /// Mergeing function which used in merge sort
+        /// Merging function which used in merge sort
         /// </summary>
         /// 
         /// <typeparam name="T">
