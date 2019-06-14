@@ -1,32 +1,28 @@
 class Stack:
 
-    size = 0
-    top = -1
-    queueContainer = []
+    def __init__(self):
+        self.__size = 0
+        self.__top = -1
+        self.__queueContainer = []
 
-    @classmethod
-    def get_size(cls):
-        return cls.size
+    def get_size(self):
+        return self.__size
 
-    @classmethod
-    def push(cls, item):
-        cls.size += 1
-        cls.top += 1
-        cls.queueContainer.append(item)
+    def push(self, item):
+        self.__size += 1
+        self.__top += 1
+        self.__queueContainer.append(item)
 
-    @classmethod
-    def pop(cls):
-        if cls.is_empty():
+    def pop(self):
+        if self.is_empty():
             return
 
-        cls.queueContainer.remove(cls.queueContainer[cls.top])
-        cls.size -= 1
-        cls.top -= 1
+        self.__queueContainer.remove(self.__queueContainer[self.__top])
+        self.__size -= 1
+        self.__top -= 1
 
-    @classmethod
-    def peek(cls):
-        return cls.queueContainer[cls.top]
+    def peek(self):
+        return self.__queueContainer[self.__top]
 
-    @classmethod
-    def is_empty(cls):
-        return cls.size == 0
+    def is_empty(self):
+        return self.__size == 0
