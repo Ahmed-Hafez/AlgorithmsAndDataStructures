@@ -43,8 +43,7 @@ public class SortingAlgorithms{
         int mid = (low + high) / 2;
 
         // Containers used in merge sort
-        // Note : This Queue data structure is implemented by me,
-        //        you can see it in the C#/DataStructuresDesign folder on the repo.
+        // Note : This Queue data structure is implemented by me.
         Queue<T> q1 = new Queue<>();
         Queue<T> q2 = new Queue<>();
 
