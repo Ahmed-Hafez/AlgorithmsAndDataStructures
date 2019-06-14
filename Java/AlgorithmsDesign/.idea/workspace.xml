@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd118db4-605b-4ba8-ad0b-53515ee04026" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms.cs.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms_BASE_31322.cs.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms_BASE_31641.cs.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms_LOCAL_31322.cs.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms_REMOTE_31322.cs.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C#/AlgorithmsDesign/Algorithms/.SearchingAlgorithms_REMOTE_31641.cs.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/AlgorithmsDesign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgorithmsDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmsDesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsDesign/Algorithms/MathAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsDesign/Algorithms/MathAlgorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsDesign/Algorithms/SortingAlgorithms.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsDesign/Algorithms/SortingAlgorithms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmsDesign/AlgorithmsDesign/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmsDesign/AlgorithmsDesign/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgorithmsDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgorithmsDesign/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/libraries/src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/libraries/src2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/DataStructuresDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/DataStructuresDesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/out/production/DataStructuresDesign/DataStructures/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/out/production/DataStructuresDesign/DataStructures/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/out/production/DataStructuresDesign/DataStructures/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/out/production/DataStructuresDesign/DataStructures/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/out/production/DataStructuresDesign/DataStructuresDesign/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/out/production/DataStructuresDesign/DataStructuresDesign/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/src/DataStructures/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/src/DataStructures/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/src/DataStructures/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/src/DataStructures/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructuresDesign/src/DataStructuresDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresDesign/src/DataStructuresDesign/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AlgorithmsDesign/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,17 +54,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="124">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#SelectionSort#0;class#SortingAlgorithms#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructuresDesign/src/DataStructures/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#1520#1521#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgorithmsDesign.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="44" column="75" selection-start-line="22" selection-start-column="8" selection-end-line="44" selection-end-column="75" />
+            <state relative-caret-position="608">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -78,9 +119,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/SortingAlgorithms.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/SearchingAlgorithms.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java" />
+        <option value="$PROJECT_DIR$/AlgorithmsDesign.iml" />
+        <option value="$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java" />
         <option value="$PROJECT_DIR$/src/AlgorithmsDesign/Main.java" />
       </list>
     </option>
@@ -97,12 +139,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AlgorithmsDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmsDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmsDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmsDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmsDesign" type="b2602c69:ProjectViewProjectNode" />
@@ -126,14 +187,21 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructuresDesign/DataStructuresDesign.iml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,16 +245,17 @@
       <workItem from="1560257057070" duration="6528000" />
       <workItem from="1560380676180" duration="3828000" />
       <workItem from="1560453382286" duration="69000" />
+      <workItem from="1560456282363" duration="11070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10425000" />
+    <option name="totallyTimeSpent" value="21495000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.257886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -196,7 +265,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -220,25 +289,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SortingAlgorithms.java" />
-    <entry file="file://$PROJECT_DIR$/src/AlgorithmsDesign/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/SearchingAlgorithms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -248,10 +318,130 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/MathAlgorithms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="44" column="75" selection-start-line="22" selection-start-column="8" selection-end-line="44" selection-end-column="75" />
+        <state relative-caret-position="608">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmsDesign.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresDesign/src/DataStructures/Stack.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructuresDesign/src/DataStructures/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#1520#1521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SelectionSort#0;class#SortingAlgorithms#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AlgorithmsDesign/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AlgorithmsDesign</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
