@@ -39,6 +39,18 @@ class LinkedList:
         else:
             previous.next = current.next
 
+    def find(self, value):
+        current = self.__first
+
+        while current.value is not value:
+            if current.next is None:
+                return None
+
+            current = current.next
+            pass
+
+        return current
+
     def display_list(self):
         list = ""
 
