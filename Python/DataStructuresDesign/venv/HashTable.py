@@ -31,7 +31,6 @@ class HashTable:
         return self.size is 0
 
     def insert(self, key, value):
-
         hash_key = idx = self.__hash(key)
 
         # check if this key is already in the table
