@@ -1,5 +1,6 @@
 from Queue import *
 from Stack import *
+from LinkedList import *
 
 q = Queue()
 
@@ -21,3 +22,15 @@ st.push(3)
 for i in range(st.get_size()):
     print(st.peek())
     st.pop()
+
+ls = LinkedList()
+ls.insert(5)
+ls.insert(6)
+ls.insert(7)
+ls.insert(9)
+
+print(ls.display_list())
+
+ls.remove(6)
+
+print(ls.display_list())
