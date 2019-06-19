@@ -6,7 +6,8 @@ from Queue import *
 container = [7, 6, 9, 2, 4, 6, 1, 2]
 print(container)
 #SortingAlgorithms.selection_sort(container)
-SortingAlgorithms.merge_sort(container, 0, len(container)-1)
+#SortingAlgorithms.merge_sort(container, 0, len(container)-1)
+container = SortingAlgorithms.quick_sort(container)
 print(container)
 
 print(MathAlgorithms.KaratsubaMultiplication(12345, 6789))

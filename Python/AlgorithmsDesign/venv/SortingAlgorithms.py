@@ -67,3 +67,24 @@ class SortingAlgorithms:
             q2.pop()
             i += 1
             pass
+
+    @staticmethod
+    def quick_sort(container):
+
+        if len(container) < 2:
+            return container
+
+        pivot = container[int(len(container)/2)]
+
+        less = []
+        greater = []
+
+        for i in range(len(container)):
+            if i == int(len(container)/2):
+                continue
+            elif container[i] <= pivot:
+                less.append(container[i])
+            else:
+                greater.append(container[i])
+
+        return SortingAlgorithms.quick_sort(less) + [pivot] + SortingAlgorithms.quick_sort(greater)
