@@ -45,12 +45,27 @@ ls.insert(6)
 ls.insert(7)
 ls.insert(9)
 
-print(ls.display_list())
+print(ls)
 
 ls.remove(6)
 
-print(ls.display_list())
+print(ls)
 print("--------------------------")
+
+# SortedLinkedList
+print("<-- SortedLinkedList -->")
+
+sls = SortedLinkedList()
+
+sls.insert(1)
+sls.insert(3)
+sls.insert(2)
+sls.insert(5)
+sls.insert(4)
+
+print(str(sls))
+print("--------------------------")
+
 
 # -----------------------------
 
