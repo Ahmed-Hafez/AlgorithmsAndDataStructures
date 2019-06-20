@@ -2,7 +2,7 @@ from Queue import *
 from Stack import *
 from LinkedList import *
 from HashTable import *
-
+from Graph import *
 
 # Queue
 print("<-- Queue -->")
@@ -112,4 +112,22 @@ ls.remove(4)
 print(ls)
 ls.remove(5)
 print("here, null", ls)
+print("--------------------------")
+
+# UnDirectedGraph
+print("<-- UnDirectedGraph -->")
+
+ug = UnDirectedGraph(10)
+
+ug.add_edge(1, 5)
+ug.add_edge(1, 6)
+ug.add_edge(5, 2)
+ug.add_edge(2, 3)
+ug.add_node(4)
+ug.add_node(7)
+ug.add_node(9)
+ug.add_node(6)
+
+print("number of connected components =", ug.connected_components())
+print(ug.visited)
 print("--------------------------")
