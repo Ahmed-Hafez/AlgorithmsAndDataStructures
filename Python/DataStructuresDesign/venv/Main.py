@@ -89,3 +89,27 @@ print(sh.get_value(11))
 print(sh.is_empty())
 
 print("--------------------------")
+
+# DoublyLinkedList
+print("<-- DoublyLinkedList -->")
+
+ls = DoublyLinkedList()
+ls.insert_front(5)
+ls.insert_front(4)
+ls.insert_front(3)
+ls.insert_front(2)
+ls.insert_back(6)
+
+
+print(ls)
+ls.remove(3)
+print(ls)
+ls.remove(2)
+print(ls)
+ls.remove(6)
+print(ls)
+ls.remove(4)
+print(ls)
+ls.remove(5)
+print("here, null", ls)
+print("--------------------------")
