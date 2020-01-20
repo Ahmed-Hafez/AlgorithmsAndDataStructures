@@ -96,9 +96,7 @@ public class SortingAlgorithms{
     public static <T extends Comparable> void InsertionSort(T[] container)
     {
         int insertionPosition, out; // out = first unsorted element
-        int n = container.length; // Number of elements
-
-        for(out = 1; out < n; out++){
+        for(out = 1; out < container.length; out++){
             T temp = container[out];
             insertionPosition = out;
             while(insertionPosition > 0 && container[insertionPosition-1].compareTo(temp) > 0){
@@ -109,4 +107,25 @@ public class SortingAlgorithms{
         }
     }
 
+
+    // Implementation of sell sort algorithm
+    public static <T extends Comparable> void ShellSort(T[] container){
+        int gap = container.length / 2;
+        while(gap != 0){
+            for(int i = 0; i < gap; i++){
+                // Doing insertion sort
+                int insertionPosition, out;
+                for(out = gap + i; out < container.length; out+=gap){
+                    T temp = container[out];
+                    insertionPosition = out;
+                    while(insertionPosition > i && container[insertionPosition - gap].compareTo(temp) > 0){
+                        container[insertionPosition] = container[insertionPosition - gap];
+                        insertionPosition -= gap;
+                    }
+                    container[insertionPosition] = temp;
+                }
+            }
+            gap = gap / 2;
+        }
+    }
 }

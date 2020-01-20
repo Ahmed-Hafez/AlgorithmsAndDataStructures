@@ -24,12 +24,15 @@ public class Main {
 //        display(arr);
 //        display(arr2);
 
-        Integer[] arr3 = {1,4,2,6,3,76,7,324,12,12,5, 3,43,456,987};
-        display(arr3);
-        SortingAlgorithms.InsertionSort(arr3, 2, 8);
-        display(arr3);
+//        Integer[] arr3 = {1,4,2,6,3,76,7,324,12,12,5, 3,43,456,987};
+//        display(arr3);
+//        SortingAlgorithms.InsertionSort(arr3);
+//        display(arr3);
 
-
+        Integer[] arr = {1,4,2,4,7,3};
+        display(arr);
+        SortingAlgorithms.ShellSort(arr);
+        display(arr);
 
 
 
