@@ -29,12 +29,15 @@ public class Main {
 //        SortingAlgorithms.InsertionSort(arr3);
 //        display(arr3);
 
+//        Integer[] arr = {1,4,2,4,7,3};
+//        display(arr);
+//        SortingAlgorithms.ShellSort1(arr);
+//        display(arr);
+
         Integer[] arr = {1,4,2,4,7,3};
         display(arr);
-        SortingAlgorithms.ShellSort(arr);
+        SortingAlgorithms.ShellSort2(arr);
         display(arr);
-
-
 
     }
     public static <T> void display(T[] obj){

@@ -109,7 +109,8 @@ public class SortingAlgorithms{
 
 
     // Implementation of sell sort algorithm
-    public static <T extends Comparable> void ShellSort(T[] container){
+    // Using shell original sort
+    public static <T extends Comparable> void ShellSort1(T[] container){
         int gap = container.length / 2;
         while(gap != 0){
             for(int i = 0; i < gap; i++){
@@ -126,6 +127,29 @@ public class SortingAlgorithms{
                 }
             }
             gap = gap / 2;
+        }
+    }
+
+    // Implementation of sell sort algorithm
+    // Using Knuth Sequence
+    public static <T extends Comparable> void ShellSort2(T[] container){
+        int gap = 1;
+        while (gap < container.length) gap = gap*3+1;
+        while(gap != 0){
+            for(int i = 0; i < gap; i++){
+                // Doing insertion sort
+                int insertionPosition, out;
+                for(out = gap + i; out < container.length; out+=gap){
+                    T temp = container[out];
+                    insertionPosition = out;
+                    while(insertionPosition > i && container[insertionPosition - gap].compareTo(temp) > 0){
+                        container[insertionPosition] = container[insertionPosition - gap];
+                        insertionPosition -= gap;
+                    }
+                    container[insertionPosition] = temp;
+                }
+            }
+            gap = (gap-1) / 3;
         }
     }
 }
