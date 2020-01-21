@@ -1,8 +1,7 @@
 package Algorithms;
 
-import DataStructures.Queue;
 
-import java.util.List;
+import java.util.*;
 
 public class SortingAlgorithms{
 
@@ -44,20 +43,20 @@ public class SortingAlgorithms{
 
         // Containers used in merge sort
         // Note : This Queue data structure is implemented by me.
-        Queue<T> q1 = new Queue<>();
-        Queue<T> q2 = new Queue<>();
+        Queue<T> q1 = new LinkedList<>();
+        Queue<T> q2 = new LinkedList<>();
 
         int i = low; //Counter
 
         // Inserting the first half part in the specified
         // part in the container in a queue
         for (; i <= mid; i++)
-            q1.push(container[i]);
+            q1.add(container[i]);
 
         // Inserting the first half part in the specified
         // part in the container in a queue
         for (; i <= high; i++)
-            q2.push(container[i]);
+            q2.add(container[i]);
 
         i = low;
 
@@ -67,12 +66,12 @@ public class SortingAlgorithms{
             if (q1.peek().compareTo(q2.peek()) < 0)
             {
                 container[i++] = q1.peek();
-                q1.pop();
+                q1.remove();
             }
             else
             {
                 container[i++] = q2.peek();
-                q2.pop();
+                q2.remove();
             }
         }
 
@@ -80,14 +79,14 @@ public class SortingAlgorithms{
         while (!q1.isEmpty())
         {
             container[i++] = q1.peek();
-            q1.pop();
+            q1.remove();
         }
 
         // Check if the second queue still has items
         while (!q2.isEmpty())
         {
             container[i++] = q2.peek();
-            q2.pop();
+            q2.remove();
         }
     }
 
@@ -151,5 +150,38 @@ public class SortingAlgorithms{
             }
             gap = (gap-1) / 3;
         }
+    }
+
+    // Implementation of radix Sort algorithm
+    public static void RadixSort(Integer[] container){
+        Queue[] buckets = new LinkedList[10];
+        for (int i = 0; i < 10; i++)
+            buckets[i] = new LinkedList();
+
+        // Get number of passes
+        int max = Integer.MIN_VALUE, pass = 0;
+        for (int item: container)
+            if (item > max) max = item;
+        while(max != 0){
+            pass++;
+            max /= 10;
+        }
+
+        for (int i = 0; i < pass; i++) {
+            for (int item : container) {
+                int digit = item / (int) Math.pow(10, i);
+                digit %= 10;
+                buckets[digit].add(item);
+            }
+            int x = 0;
+            for (int k = 0; k < 10; k++) {
+                while (!buckets[k].isEmpty()) {
+                    container[x] = (int)buckets[k].remove();
+                    x++;
+                }
+            }
+        }
+
+
     }
 }

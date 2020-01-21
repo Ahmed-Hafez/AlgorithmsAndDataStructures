@@ -5,6 +5,7 @@ import Algorithms.SearchingAlgorithms;
 import Algorithms.SortingAlgorithms;
 
 import java.util.Iterator;
+import java.util.LinkedList;
 
 public class Main {
 
@@ -34,9 +35,14 @@ public class Main {
 //        SortingAlgorithms.ShellSort1(arr);
 //        display(arr);
 
-        Integer[] arr = {1,4,2,4,7,3};
+//        Integer[] arr = {1,4,2,4,7,3};
+//        display(arr);
+//        SortingAlgorithms.ShellSort2(arr);
+//        display(arr);
+
+        Integer[] arr = {1,4,2,6,3,76,7,324,12,12,5, 3,43,456,987};
         display(arr);
-        SortingAlgorithms.ShellSort2(arr);
+        SortingAlgorithms.RadixSort(arr);
         display(arr);
 
     }
