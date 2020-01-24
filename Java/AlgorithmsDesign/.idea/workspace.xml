@@ -42,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructuresDesign/DataStructuresDesign.iml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructuresDesign" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -95,7 +95,7 @@
       <workItem from="1560380676180" duration="3828000" />
       <workItem from="1560453382286" duration="69000" />
       <workItem from="1560456282363" duration="11070000" />
-      <workItem from="1579533194656" duration="19118000" />
+      <workItem from="1579533194656" duration="21468000" />
     </task>
     <servers />
   </component>
@@ -103,49 +103,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1579571456000">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579573668158">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579571456000" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1579571455999">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579573668158" />
+    <state width="1807" height="343" key="GridCell.Tab.0.bottom" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579571455999" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1579571455999">
+    <state width="1807" height="343" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.0.center" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579571455999" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1579571455999">
+    <state width="1807" height="343" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.0.left" timestamp="1579573669857">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579571455999" />
-    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1579571406299">
+    <state width="1807" height="343" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669857" />
+    <state width="1807" height="343" key="GridCell.Tab.0.right" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579571406299" />
-    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1579571406298">
+    <state width="1807" height="343" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579571406298" />
-    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1579571406298">
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579571406298" />
-    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1579571406299">
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1579573669858">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579571406299" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Algorithms/SortingAlgorithms.java</url>
-          <line>173</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1579573669858">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579573669858" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AlgorithmsDesign$Main.ic" NAME="Main Coverage Results" MODIFIED="1579541337204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

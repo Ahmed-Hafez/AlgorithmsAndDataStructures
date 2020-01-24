@@ -40,10 +40,10 @@ public class Main {
 //        SortingAlgorithms.ShellSort2(arr);
 //        display(arr);
 
-        Integer[] arr = {1,4,2,6,3,76,7,324,12,12,5, 3,43,456,987};
-        display(arr);
-        SortingAlgorithms.RadixSort(arr);
-        display(arr);
+//        Integer[] arr = {1,4,2,6,3,76,7,324,12,12,5, 3,43,456,987};
+//        display(arr);
+//        SortingAlgorithms.RadixSort(arr);
+//        display(arr);
 
     }
     public static <T> void display(T[] obj){
